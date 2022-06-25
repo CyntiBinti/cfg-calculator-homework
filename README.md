@@ -1,0 +1,2 @@
+# cfg-simple-calculator-wk5
+Created a very simple calculator web app for my students that I teach on the Code First Girls (CFG) "Intro to Web Dev" Course. The students only had very basic understanding of HTML, CSS, JavaScript (e.g. data types, arrays, if/eles statements, loops, variables, functions). So had to limit the programmatic calculator functionality to the material they've learnt thus far!
